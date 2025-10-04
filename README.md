@@ -10,5 +10,5 @@ i "try" to build random stuff, break it, fix it, then break it again. 😭
 ### 🔥 Streaks
 ![Streak](https://streak-stats.demolab.com/?user=BrownCurryyy&theme=tokyonight&hide_border=true)
 
-
-https://activity-graph.herokuapp.com/graph?username=BrownCurryyy&theme=react-dark
+### 📈 Contributions
+![Contribution Graph](https://github.com/users/BrownCurryyy/contributions)
