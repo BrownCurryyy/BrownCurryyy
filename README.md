@@ -1,16 +1,16 @@
-## Hi there 👋
+### BrownCuryyy Here,👋
+still learning, still messing around.  
+i "try" to build random stuff, break it, fix it, then break it again.  
+😭
 
-<!--
-**BrownCurryyy/BrownCurryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=BrownCurryyy&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Streaks
+![Streak](https://streak-stats.demolab.com/?user=BrownCurryyy&theme=tokyonight)
+
+### 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrownCurryyy&layout=compact&theme=tokyonight)
+
+still cookin
