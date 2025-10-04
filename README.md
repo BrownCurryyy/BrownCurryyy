@@ -10,6 +10,6 @@ i "try" to build random stuff, break it, fix it, then break it again. 😭
 ### 🔥 Streaks
 ![Streak](https://streak-stats.demolab.com/?user=BrownCurryyy&theme=tokyonight&hide_border=true)
 
-### 📊 Contribution Graph
-![BrownCurryyy's Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrownCurryyy&theme=react-dark&hide_border=true)
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrownCurryyy&theme=tokyonight)](https://github.com/BrownCurryyy)
 
