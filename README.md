@@ -11,5 +11,4 @@ i "try" to build random stuff, break it, fix it, then break it again. 😭
 ![Streak](https://streak-stats.demolab.com/?user=BrownCurryyy&theme=tokyonight&hide_border=true)
 
 
-![Commits](https://img.shields.io/github/commit-activity/m/BrownCurryyy/Byom?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/BrownCurryyy/Byom?style=for-the-badge)
+https://activity-graph.herokuapp.com/graph?username=BrownCurryyy&theme=react-dark
